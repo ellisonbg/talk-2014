@@ -42,11 +42,11 @@
 	<key>ColumnSpacing</key>
 	<real>36</real>
 	<key>CreationDate</key>
-	<string>2013-11-07 05:58:18 +0000</string>
+	<string>2014-05-28 16:41:42 +0000</string>
 	<key>Creator</key>
 	<string>bgranger</string>
 	<key>DisplayScale</key>
-	<string>1 0/72 in = 1.0000 in</string>
+	<string>1 0/72 in = 1 0/72 in</string>
 	<key>GraphDocumentVersion</key>
 	<integer>8</integer>
 	<key>GraphicsList</key>
@@ -57,35 +57,28 @@
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>28</integer>
+				<integer>4</integer>
 			</dict>
 			<key>ID</key>
-			<integer>33</integer>
+			<integer>8</integer>
 			<key>Points</key>
 			<array>
-				<string>{241.59308245327554, 385.40907928007584}</string>
-				<string>{270.40691754672446, 347.59092071992416}</string>
+				<string>{301.5, 284.5}</string>
+				<string>{370.03931790895228, 313.41502474283925}</string>
 			</array>
 			<key>Style</key>
 			<dict>
 				<key>stroke</key>
 				<dict>
 					<key>HeadArrow</key>
-					<string>FilledArrow</string>
+					<string>0</string>
 					<key>Legacy</key>
 					<true/>
-					<key>LineType</key>
+					<key>Pattern</key>
 					<integer>1</integer>
 					<key>TailArrow</key>
 					<string>0</string>
-					<key>Width</key>
-					<real>2</real>
 				</dict>
-			</dict>
-			<key>Tail</key>
-			<dict>
-				<key>ID</key>
-				<integer>30</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -94,35 +87,28 @@
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>30</integer>
+				<integer>3</integer>
 			</dict>
 			<key>ID</key>
-			<integer>32</integer>
+			<integer>7</integer>
 			<key>Points</key>
 			<array>
-				<string>{313.49998123780057, 408.50001815456494}</string>
-				<string>{262.50001876219557, 408.50001815456494}</string>
+				<string>{302, 282}</string>
+				<string>{370.00010962762133, 280.57591393450008}</string>
 			</array>
 			<key>Style</key>
 			<dict>
 				<key>stroke</key>
 				<dict>
 					<key>HeadArrow</key>
-					<string>FilledArrow</string>
+					<string>0</string>
 					<key>Legacy</key>
 					<true/>
-					<key>LineType</key>
+					<key>Pattern</key>
 					<integer>1</integer>
 					<key>TailArrow</key>
 					<string>0</string>
-					<key>Width</key>
-					<real>2</real>
 				</dict>
-			</dict>
-			<key>Tail</key>
-			<dict>
-				<key>ID</key>
-				<integer>29</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -131,57 +117,52 @@
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>29</integer>
+				<integer>1</integer>
 			</dict>
 			<key>ID</key>
-			<integer>31</integer>
+			<integer>6</integer>
 			<key>Points</key>
 			<array>
-				<string>{305.59308378474134, 347.59092246747298}</string>
-				<string>{334.40691621525866, 385.40907753252702}</string>
+				<string>{301.5, 280.5}</string>
+				<string>{370.04817900607623, 248.01101932524512}</string>
 			</array>
 			<key>Style</key>
 			<dict>
 				<key>stroke</key>
 				<dict>
 					<key>HeadArrow</key>
-					<string>FilledArrow</string>
+					<string>0</string>
 					<key>Legacy</key>
 					<true/>
-					<key>LineType</key>
+					<key>Pattern</key>
 					<integer>1</integer>
 					<key>TailArrow</key>
 					<string>0</string>
-					<key>Width</key>
-					<real>2</real>
 				</dict>
-			</dict>
-			<key>Tail</key>
-			<dict>
-				<key>ID</key>
-				<integer>28</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{186.5, 383.5}, {75, 50}}</string>
+			<string>{{241.5, 262}, {58, 36}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>12</real>
+			</dict>
 			<key>ID</key>
-			<integer>30</integer>
+			<integer>5</integer>
 			<key>Shape</key>
-			<string>Circle</string>
+			<string>Rectangle</string>
 			<key>Style</key>
 			<dict>
 				<key>shadow</key>
 				<dict>
 					<key>Draws</key>
 					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Width</key>
-					<real>2</real>
 				</dict>
 			</dict>
 			<key>Text</key>
@@ -192,31 +173,31 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs22 \cf0 ComputE}</string>
-				<key>VerticalPad</key>
-				<integer>0</integer>
+\f0\fs20 \cf0 Frontend}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{314.5, 383.5}, {75, 50}}</string>
+			<string>{{370.5, 307}, {54, 36}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>12</real>
+			</dict>
 			<key>ID</key>
-			<integer>29</integer>
+			<integer>4</integer>
 			<key>Shape</key>
-			<string>Circle</string>
+			<string>Rectangle</string>
 			<key>Style</key>
 			<dict>
 				<key>shadow</key>
 				<dict>
 					<key>Draws</key>
 					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Width</key>
-					<real>2</real>
 				</dict>
 			</dict>
 			<key>Text</key>
@@ -227,31 +208,32 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs22 \cf0 Interact}</string>
-				<key>VerticalPad</key>
-				<integer>0</integer>
+\f0\fs20 \cf0 R\
+Kernel}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{250.5, 299.5}, {75, 50}}</string>
+			<string>{{370.5, 262}, {54, 36}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>12</real>
+			</dict>
 			<key>ID</key>
-			<integer>28</integer>
+			<integer>3</integer>
 			<key>Shape</key>
-			<string>Circle</string>
+			<string>Rectangle</string>
 			<key>Style</key>
 			<dict>
 				<key>shadow</key>
 				<dict>
 					<key>Draws</key>
 					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Width</key>
-					<real>2</real>
 				</dict>
 			</dict>
 			<key>Text</key>
@@ -262,9 +244,43 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs22 \cf0 Visualize}</string>
-				<key>VerticalPad</key>
-				<integer>0</integer>
+\f0\fs20 \cf0 Julia\
+Kernel}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
+			<string>{{370.5, 217}, {54, 36}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>FontInfo</key>
+			<dict>
+				<key>Font</key>
+				<string>Helvetica</string>
+				<key>Size</key>
+				<real>12</real>
+			</dict>
+			<key>ID</key>
+			<integer>1</integer>
+			<key>Shape</key>
+			<string>Rectangle</string>
+			<key>Style</key>
+			<dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 xkcd-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs20 \cf0 Python Kernel}</string>
 			</dict>
 		</dict>
 	</array>
@@ -315,7 +331,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-05-28 16:49:32 +0000</string>
+	<string>2014-05-28 16:45:20 +0000</string>
 	<key>Modifier</key>
 	<string>bgranger</string>
 	<key>NotesVisible</key>
@@ -396,7 +412,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{340, 6}, {710, 872}}</string>
+		<string>{{387, 6}, {710, 872}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -410,14 +426,14 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, 0}, {575, 733}}</string>
+		<string>{{196.5, 107}, {287.5, 366.5}}</string>
 		<key>Zoom</key>
-		<real>1</real>
+		<real>2</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>1</real>
+				<real>2</real>
 				<real>1</real>
 			</array>
 		</array>
