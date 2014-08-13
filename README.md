@@ -1,6 +1,4 @@
-talk-2014-ucsb
-==============
+# Talk for CCP 2014 in Boston, MA in August 2014
 
-A talk at the Santa Barbara Data Science Meetup at UCSB in May 2014.
+[Open Source Tools for Exploratory and Reproducible Computational Physics](https://nbviewer.jupyter.org/github/ellisonbg/talk-2014-summer/blob/ccp2014/Index.ipynb)
 
-[View this talk.](http://nbviewer.ipython.org/github/ellisonbg/talk-2014-ucsb/blob/master/Index.ipynb)
