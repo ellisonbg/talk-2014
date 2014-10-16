@@ -8,14 +8,14 @@ devs = [
     ('Jonathan Frederic', 'jdfreder.jpg'),
     ('Paul Ivanov', 'ivanov.jpg'),
     ('Matthias Bussonnier', 'matthias.jpg'),
-    ('Evan Patterson', 'epatters.jpg'),
+    # ('Evan Patterson', 'epatters.jpg'),
+    ('Kyle Kelley', 'rgbkrk.jpg'),
     ('Damian Avila', 'damianavila.jpg'),
-    ('Brad Froehle', 'brad.jpg'),
-    ('Zach Sailer', 'zsailer.jpg'),
-    ('Robert Kern', 'rkern.jpg'),
-    ('Jorgen Stenarson', 'jorgen.jpg'),
-    ('Jonathan March', 'jdmarch.jpg'),
-    ('Kyle Kelley', 'rgbkrk.jpg')
+    # ('Brad Froehle', 'brad.jpg'),
+    # ('Zach Sailer', 'zsailer.jpg'),
+    # ('Robert Kern', 'rkern.jpg'),
+    # ('Jorgen Stenarson', 'jorgen.jpg'),
+    # ('Jonathan March', 'jdmarch.jpg'),
 ]
 
 def chunks(l, n):
